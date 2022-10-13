@@ -1,4 +1,3 @@
-# NFT
-## Contract Address: 0x340bB5bC82c7bcEaF942f893Bef7216490781775
-## View on OpenSea's Rinkeby Testnet: https://testnets.opensea.io/collection/olahfemi1
-
+# Resources
+- https://dev.to/lilcoderman/lets-mint-an-on-chain-nft-mfers-2i27
+- https://docs.alchemy.com/docs/how-to-make-nfts-with-on-chain-metadata-hardhat-and-javascript
