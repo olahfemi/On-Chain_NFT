@@ -18,4 +18,4 @@ main().catch((error) => {
   process.exitCode = 1;
 });
 
-// CONTRACTADDRESS on Goerli = 
+// CONTRACTADDRESS on Goerli = address
